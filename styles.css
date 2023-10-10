@@ -31,8 +31,7 @@ body {
   object-fit: cover;
   border-radius: 1.5em;
 }
-.profile__body {
-}
+
 .profile__job {
   display: flex;
   flex-direction: column;
