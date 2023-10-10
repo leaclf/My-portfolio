@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://chimerical-churros-795a50.netlify.app/">
       Demo
     </a>
     <span> | </span>
